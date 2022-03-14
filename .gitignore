@@ -1,0 +1,13 @@
+node_modules
+.env
+secrets.json
+
+#Hardhat files
+cache
+.idea
+
+typechain
+typechain-types
+artifacts
+
+merged
